@@ -4,5 +4,7 @@
 # along  with appropriate stemming of the input strings and stripping of the 
 # index metadata
 
-echo "$@" | cat
+echo "$@" | cat | grep "$@" "d/global-index.txt"
+
+
 
