@@ -2,7 +2,7 @@
 #
 # Combine terms to create  n-grams (for n=1,2,3) and then count and sort them
 
-declare -a vocab
+vocab=()
 
 while read -r word; do
     vocab+=("$word")
