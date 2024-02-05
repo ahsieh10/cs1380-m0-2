@@ -1,0 +1,32 @@
+"filename", "language", "JavaScript", "Shell Script", "JSON", "Markdown", "comment", "blank", "total"
+"/Users/ally/Documents/BrownCS/cs1380/m0/README.md", "Markdown", 0, 0, 0, 23, 0, 11, 34
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/combine.sh", "Shell Script", 0, 22, 0, 0, 4, 6, 32
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/getText.js", "JavaScript", 15, 0, 0, 0, 4, 7, 26
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/getURLs.js", "JavaScript", 23, 0, 0, 0, 5, 8, 36
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/invert.sh", "Shell Script", 0, 7, 0, 0, 3, 5, 15
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/merge.js", "JavaScript", 62, 0, 0, 0, 6, 9, 77
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/package.json", "JSON", 0, 0, 18, 0, 0, 1, 19
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/process.sh", "Shell Script", 0, 1, 0, 0, 4, 2, 7
+"/Users/ally/Documents/BrownCS/cs1380/m0/c/stem.js", "JavaScript", 11, 0, 0, 0, 2, 5, 18
+"/Users/ally/Documents/BrownCS/cs1380/m0/crawl.sh", "Shell Script", 0, 4, 0, 0, 1, 3, 8
+"/Users/ally/Documents/BrownCS/cs1380/m0/engine.sh", "Shell Script", 0, 12, 0, 0, 4, 6, 22
+"/Users/ally/Documents/BrownCS/cs1380/m0/index.sh", "Shell Script", 0, 7, 0, 0, 2, 2, 11
+"/Users/ally/Documents/BrownCS/cs1380/m0/query.sh", "Shell Script", 0, 1, 0, 0, 4, 6, 11
+"/Users/ally/Documents/BrownCS/cs1380/m0/s/lint.sh", "Shell Script", 0, 16, 0, 0, 1, 7, 24
+"/Users/ally/Documents/BrownCS/cs1380/m0/s/submit.sh", "Shell Script", 0, 37, 0, 0, 4, 19, 60
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/gi-diff.js", "JavaScript", 170, 0, 0, 0, 0, 2, 172
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test-all.sh", "Shell Script", 0, 14, 0, 0, 2, 4, 20
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_combine.sh", "Shell Script", 0, 10, 0, 0, 1, 4, 15
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_end_to_end.sh", "Shell Script", 0, 21, 0, 0, 1, 9, 31
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_getText.sh", "Shell Script", 0, 10, 0, 0, 1, 4, 15
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_getURL_no_URL.sh", "Shell Script", 0, 11, 0, 0, 1, 5, 17
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_getURLs.sh", "Shell Script", 0, 11, 0, 0, 1, 5, 17
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_invert.sh", "Shell Script", 0, 11, 0, 0, 1, 6, 18
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_merge.sh", "Shell Script", 0, 18, 0, 0, 1, 8, 27
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_merging_empty.sh", "Shell Script", 0, 14, 0, 0, 1, 7, 22
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_merging_to_empty.sh", "Shell Script", 0, 14, 0, 0, 1, 7, 22
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_process.sh", "Shell Script", 0, 10, 0, 0, 1, 4, 15
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_query.sh", "Shell Script", 0, 12, 0, 0, 1, 7, 20
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_queryNonexistent.sh", "Shell Script", 0, 12, 0, 0, 1, 7, 20
+"/Users/ally/Documents/BrownCS/cs1380/m0/t/test_stem.sh", "Shell Script", 0, 10, 0, 0, 1, 5, 16
+"Total", "-", 281, 285, 18, 23, 59, 181, 847

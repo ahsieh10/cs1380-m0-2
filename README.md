@@ -6,12 +6,12 @@
 ## Summary
 > Summarize your implementation, including key challenges you encountered
 
-My implementation comprises `<number>` software components, totaling `<number>` lines of code in the following languages: `<number>` lines of shell scripts and `<number>` of JavaScript code. Key challenges included `trying to understand how to write the ideal output with shell scripting, understanding how to write my own tests, and understanding the concept of stream processing (when I tried to search up shell commands, most of them dealt with files rather than input streams)`.
+My implementation comprises `30` software components, totaling `<number>` lines of code in the following languages: `285` lines of shell scripts and `281` of JavaScript code. Key challenges included `trying to understand how to write the ideal output with shell scripting, understanding how to write my own tests, and understanding the concept of stream processing (when I tried to search up shell commands, most of them dealt with files rather than input streams)`.
 
 ## Correctness & Performance Characterization
 > Describe how you characterized the correctness and performance of your implementation
 
-*Correctness*: My implementation passes `10` out of the `10` tests (`100`%) already provided for M0. I developed another `<number>` tests, which focus on `<..details>`. All these tests, combined take `<time>` to complete. `<additional approaches for increasing correctness confidence>`.
+*Correctness*: My implementation passes `10` out of the `10` tests (`100`%) already provided for M0. I developed another `4` tests, which focus on `checking for edge cases relating to empty files in various components`. All these tests, combined take `1m4.874s` to complete. `I also made sure to manually run sandbox 2 and check to see if the output was well-formed`.
 
 *Performance*: Evaluating the entire system using the `time` command on the three sandboxes reports the following times:
 
@@ -26,7 +26,7 @@ Regarding the above, I was never able to finish running the engine, as I could n
 ## Time to Complete
 > Roughly, how many hours did this milestone take you to complete?
 
-Hours: `<time>`
+Hours: `probably 15`
 
 ## Wild Guess
 > How many lines of code do you think it will take to build the fully distributed, scalable version of your search engine? (If at all possible, try to justify your answer — even a rough justification about the order of magnitude is enough)
